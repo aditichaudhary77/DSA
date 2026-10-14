@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditichaudhary77/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditichaudhary77/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditichaudhary77/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditichaudhary77/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditichaudhary77/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
