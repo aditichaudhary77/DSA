@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditichaudhary77/DSA/tree/master/0005-longest-palindromic-substring) |
 | [4030-check-ascii-palindromic](https://github.com/aditichaudhary77/DSA/tree/master/4030-check-ascii-palindromic) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditichaudhary77/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aditichaudhary77/DSA/tree/master/0005-longest-palindromic-substring) |
 | [4030-check-ascii-palindromic](https://github.com/aditichaudhary77/DSA/tree/master/4030-check-ascii-palindromic) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Bit Manipulation
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditichaudhary77/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditichaudhary77/DSA/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditichaudhary77/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
