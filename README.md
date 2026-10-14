@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aditichaudhary77/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/aditichaudhary77/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditichaudhary77/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/aditichaudhary77/DSA/tree/master/0051-n-queens) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aditichaudhary77/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aditichaudhary77/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aditichaudhary77/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/aditichaudhary77/DSA/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aditichaudhary77/DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/aditichaudhary77/DSA/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
