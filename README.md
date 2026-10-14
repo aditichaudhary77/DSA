@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/aditichaudhary77/DSA/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/aditichaudhary77/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/aditichaudhary77/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aditichaudhary77/DSA/tree/master/0013-roman-to-integer) |
 | [4030-check-ascii-palindromic](https://github.com/aditichaudhary77/DSA/tree/master/4030-check-ascii-palindromic) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Bit Manipulation
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aditichaudhary77/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditichaudhary77/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aditichaudhary77/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aditichaudhary77/DSA/tree/master/0013-roman-to-integer) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 ## Enumeration
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditichaudhary77/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditichaudhary77/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aditichaudhary77/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aditichaudhary77/DSA/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
