@@ -20,9 +20,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Greedy
 |  |
 | ------- |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
+## Math
+|  |
+| ------- |
+| [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
+## Enumeration
+|  |
+| ------- |
+| [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
+## Number Theory
+|  |
+| ------- |
+| [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 <!---LeetCode Topics End-->
