@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditichaudhary77/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aditichaudhary77/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/aditichaudhary77/DSA/tree/master/0009-palindrome-number) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 ## Enumeration
