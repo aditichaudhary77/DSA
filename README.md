@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aditichaudhary77/DSA/tree/master/0029-divide-two-integers) |
 | [4030-check-ascii-palindromic](https://github.com/aditichaudhary77/DSA/tree/master/4030-check-ascii-palindromic) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Array
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aditichaudhary77/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aditichaudhary77/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditichaudhary77/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/aditichaudhary77/DSA/tree/master/0029-divide-two-integers) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 ## Enumeration
