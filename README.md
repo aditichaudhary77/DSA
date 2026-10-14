@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aditichaudhary77/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/aditichaudhary77/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditichaudhary77/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/aditichaudhary77/DSA/tree/master/0014-longest-common-prefix) |
 | [4030-check-ascii-palindromic](https://github.com/aditichaudhary77/DSA/tree/master/4030-check-ascii-palindromic) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Bit Manipulation
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditichaudhary77/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditichaudhary77/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aditichaudhary77/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/aditichaudhary77/DSA/tree/master/0014-longest-common-prefix) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditichaudhary77/DSA/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aditichaudhary77/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
