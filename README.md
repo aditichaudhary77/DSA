@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aditichaudhary77/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aditichaudhary77/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditichaudhary77/DSA/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/aditichaudhary77/DSA/tree/master/0041-first-missing-positive) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aditichaudhary77/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/aditichaudhary77/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aditichaudhary77/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/aditichaudhary77/DSA/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
