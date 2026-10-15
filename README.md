@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditichaudhary77/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditichaudhary77/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aditichaudhary77/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/aditichaudhary77/DSA/tree/master/0053-maximum-subarray) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditichaudhary77/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/aditichaudhary77/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/aditichaudhary77/DSA/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditichaudhary77/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aditichaudhary77/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aditichaudhary77/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aditichaudhary77/DSA/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
