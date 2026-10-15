@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aditichaudhary77/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aditichaudhary77/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aditichaudhary77/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/aditichaudhary77/DSA/tree/master/0070-climbing-stairs) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 ## Enumeration
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aditichaudhary77/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aditichaudhary77/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aditichaudhary77/DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/aditichaudhary77/DSA/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aditichaudhary77/DSA/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aditichaudhary77/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
