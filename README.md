@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditichaudhary77/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aditichaudhary77/DSA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/aditichaudhary77/DSA/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/aditichaudhary77/DSA/tree/master/0067-add-binary) |
 | [4030-check-ascii-palindromic](https://github.com/aditichaudhary77/DSA/tree/master/4030-check-ascii-palindromic) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aditichaudhary77/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/aditichaudhary77/DSA/tree/master/0067-add-binary) |
 | [4030-check-ascii-palindromic](https://github.com/aditichaudhary77/DSA/tree/master/4030-check-ascii-palindromic) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Array
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/aditichaudhary77/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/aditichaudhary77/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aditichaudhary77/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aditichaudhary77/DSA/tree/master/0067-add-binary) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 ## Enumeration
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aditichaudhary77/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aditichaudhary77/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aditichaudhary77/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/aditichaudhary77/DSA/tree/master/0067-add-binary) |
 ## Quicksort
 |  |
 | ------- |
