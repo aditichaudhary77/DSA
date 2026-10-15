@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/aditichaudhary77/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/aditichaudhary77/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/aditichaudhary77/DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/aditichaudhary77/DSA/tree/master/0089-gray-code) |
 | [4030-check-ascii-palindromic](https://github.com/aditichaudhary77/DSA/tree/master/4030-check-ascii-palindromic) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Array
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aditichaudhary77/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aditichaudhary77/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/aditichaudhary77/DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/aditichaudhary77/DSA/tree/master/0089-gray-code) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 ## Enumeration
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/aditichaudhary77/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aditichaudhary77/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aditichaudhary77/DSA/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/aditichaudhary77/DSA/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
