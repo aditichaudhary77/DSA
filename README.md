@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aditichaudhary77/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/aditichaudhary77/DSA/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/aditichaudhary77/DSA/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/aditichaudhary77/DSA/tree/master/0090-subsets-ii) |
 | [4030-check-ascii-palindromic](https://github.com/aditichaudhary77/DSA/tree/master/4030-check-ascii-palindromic) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Array
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aditichaudhary77/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aditichaudhary77/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/aditichaudhary77/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/aditichaudhary77/DSA/tree/master/0090-subsets-ii) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aditichaudhary77/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aditichaudhary77/DSA/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/aditichaudhary77/DSA/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/aditichaudhary77/DSA/tree/master/0090-subsets-ii) |
 ## Stack
 |  |
 | ------- |
