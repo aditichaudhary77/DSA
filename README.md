@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditichaudhary77/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditichaudhary77/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/aditichaudhary77/DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/aditichaudhary77/DSA/tree/master/0088-merge-sorted-array) |
 | [4030-check-ascii-palindromic](https://github.com/aditichaudhary77/DSA/tree/master/4030-check-ascii-palindromic) |
 ## String
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditichaudhary77/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditichaudhary77/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aditichaudhary77/DSA/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/aditichaudhary77/DSA/tree/master/0088-merge-sorted-array) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditichaudhary77/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aditichaudhary77/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aditichaudhary77/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditichaudhary77/DSA/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
