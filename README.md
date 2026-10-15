@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aditichaudhary77/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aditichaudhary77/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aditichaudhary77/DSA/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/aditichaudhary77/DSA/tree/master/0059-spiral-matrix-ii) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/aditichaudhary77/DSA/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4035-maximum-valid-split-positions-i](https://github.com/aditichaudhary77/DSA/tree/master/4035-maximum-valid-split-positions-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aditichaudhary77/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aditichaudhary77/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aditichaudhary77/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/aditichaudhary77/DSA/tree/master/0059-spiral-matrix-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/aditichaudhary77/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aditichaudhary77/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/aditichaudhary77/DSA/tree/master/0059-spiral-matrix-ii) |
 ## Quicksort
 |  |
 | ------- |
