@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/aditichaudhary77/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/aditichaudhary77/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/aditichaudhary77/DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/aditichaudhary77/DSA/tree/master/0076-minimum-window-substring) |
 | [4030-check-ascii-palindromic](https://github.com/aditichaudhary77/DSA/tree/master/4030-check-ascii-palindromic) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/aditichaudhary77/DSA/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Bit Manipulation
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aditichaudhary77/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aditichaudhary77/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aditichaudhary77/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/aditichaudhary77/DSA/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditichaudhary77/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aditichaudhary77/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/aditichaudhary77/DSA/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
